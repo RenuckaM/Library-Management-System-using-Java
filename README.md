@@ -41,7 +41,12 @@ All button actions are handled using the `actionPerformed()` method. This define
 
 ## Output
 
-(Add screenshots in the `/assets/screenshots/` folder and embed one here)
+![image](https://github.com/user-attachments/assets/afc9df7b-9e4b-4996-be9a-91b5c33c2099)
+![image](https://github.com/user-attachments/assets/6c1e3d72-2ac2-4543-90a9-c5efa99cc954)
+![image](https://github.com/user-attachments/assets/a73c2288-2624-4e4d-a006-d121bfb15a84)
+
+
+
 
 
 
