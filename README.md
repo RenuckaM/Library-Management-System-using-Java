@@ -1,4 +1,9 @@
-# Library Management System using Java
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" height="80"/></td>
+    <td><h1>Library Management System using Java</h1></td>
+  </tr>
+</table>
 
 This is a simple Library Management System developed using Java Swing. It provides a user-friendly Graphical User Interface (GUI) that allows users to perform basic library functions like add, view, edit, delete, clear and exit operations for book records.
 
